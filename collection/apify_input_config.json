@@ -1,0 +1,19 @@
+{
+  "includeComments": true,
+  "maxCommentsDepth": 10,
+  "maxCommentsPerPost": 200,
+  "maxPostsPerCollection": 1000,
+  "maxResults": 100000,
+  "maxTopCommentsPerPost": 20,
+  "scrapingMode": "standard",
+  "sort": "default",
+  "subredditUrls": [
+    {
+      "url": "https://www.reddit.com/r/relationship_advice/"
+    },
+    {
+      "url": "https://www.reddit.com/r/dating_advice/"
+    }
+  ],
+  "query": "how to scrape reddit"
+}
