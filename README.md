@@ -1,5 +1,17 @@
 # ta2_reddit_project
 
+## Project Description
+This project uses NLP to analyze 4 subreddits from Reddit:
+* relationship_advice
+* relationshipadvice
+* dating_advice
+* datingadvice
+
+The primary goal is to create a predictive model which will predict the what categories a particular relationship issue falls under for Reddit posts, and to predict what kind of advice would most likely be offered. 
+
+Additional unsupervised analysis and descriptive statistics were also performed to evaluate common patterns within these types of subreddits. 
+
+
 ## Folders:
 
 ### data/sample:
