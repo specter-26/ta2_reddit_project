@@ -67,7 +67,7 @@ _Comment Labels_
 * Other: Advice that is clear but does not fit in any above category.
 * No advice: Commenter is sarcastic, rude, or otherwise unhelpful. 
 
-### AI Prompt
+### AI Prompt (ChatGPT 6.2 Sol Light)
 Here is an excel file with my annotations for various dating and relationship subreddits. Based on my already human-made annotations, create your own for the entire spreadsheet. Check a dropdown box to say that you are uncertain and I need to review. Also create a dropdown box for you to check in case your labels are different from mine. 
 Here are the labels that I need you to use:\
 _Insert post or comment labels_
