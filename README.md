@@ -34,7 +34,7 @@ The cleaning used for standardizing the data annotations and making them nice an
 _03_data_modelling.ipynb:_
 Creat the baseline comparison models using TF-IDF and Logistic Regression. 
 
-_04_models.ipynb:_
+_04_improved_models.ipynb:_
 Creat the transformer models and explored unsupervised approaches. 
 
 ## About Annotations 
