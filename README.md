@@ -71,7 +71,7 @@ _Post Labels_
   <br>
 _Comment Labels_
 * Talk it through: Discuss and communicate with the person.
-* Set boundary: Set and enforce a boundary of some sort. Whether that be physical, emotional, how much they can talk to you, what they can do, who * they can talk to, etc. 
+* Set boundary: Set and enforce a boundary of some sort. Whether that be physical, emotional, how much they can talk to you, what they can do, who they can talk to, etc. 
 * Repair/Help: Work through it together, apologize, see therapy, etc. 
 * Wait/More info: Either wait to see what happens or what someone will do, or the commenter is asking a question to get more info. 
 * Leave/Disengage: Break up, block, ghost, etc. 
