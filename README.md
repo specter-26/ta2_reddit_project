@@ -68,8 +68,10 @@ _Post Labels_
 * Uncertainty: Uncertain about what the future might hold and processing how to move on with this. 
 * Sex/Intimacy: Sexual activity or other physical closeness (i.e. kisses/making out, cuddling)
 * Other: Can not be properly categorized as one of the above. 
-  <br>
+<br>
+
 _Comment Labels_
+
 * Talk it through: Discuss and communicate with the person.
 * Set boundary: Set and enforce a boundary of some sort. Whether that be physical, emotional, how much they can talk to you, what they can do, who they can talk to, etc. 
 * Repair/Help: Work through it together, apologize, see therapy, etc. 
