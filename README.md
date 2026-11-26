@@ -37,6 +37,9 @@ Create the baseline comparison models using TF-IDF and Logistic Regression.
 _04_improved_models.ipynb:_
 Create the transformer models and explored unsupervised approaches. 
 
+_05_advice_across_situations.ipynb:_
+Compare Reddit advice across relationship situations using thread-level statistics and qualitative examples.
+
 ## About Annotations 
 
 Both files contain 5 common columns: ‘Primary Labels’ and ‘Secondary Labels,’ ‘Notes,’ ‘Annotator.’
